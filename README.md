@@ -13,4 +13,5 @@ This repository contains two distinct implementations based on your preferred ou
 - **Precision Timing:** Configures the `SysTick` timer at 1ms intervals.
 - **Direct Register Access:** No HAL libraries used; written entirely in CMSIS/Bare-Metal C for performance and small binary size.
 
+-**Visit the respective folders to know more about how to implement them.**
 ---
